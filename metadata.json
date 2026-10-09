@@ -1,0 +1,10 @@
+{
+  "name": "Lili - Voice Assistant for Lina Zaki",
+  "description": "An elegant, minimalist bilingual voice assistant representing Lina Zaki for Luxury, Communication & Prestige Marketing.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
